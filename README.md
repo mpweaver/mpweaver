@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mpweaver
-- 👀 I’m interested in Javascript,mobile apps,React Native, Expo and making music related apps
+- 👀 I’m interested in Javascript, mobile apps, React Native, Expo and making music related apps.
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on music related apps
-- 📫 How to reach me ... 
+- 📫 How to reach me ... MarkW_ATX @X
 
 <!---
 mpweaver/mpweaver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
